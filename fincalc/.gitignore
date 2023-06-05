@@ -1,0 +1,13 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Django-specific files
+*.log
+db.sqlite3
+
+# Ignore PyCharm files
+.idea/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
